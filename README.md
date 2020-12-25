@@ -47,5 +47,5 @@ https://github.com/deepseasw/bert-naver-movie-review
 
 https://github.com/monologg/KoELECTRA
 
-# 코랩
-https://colab.research.google.com/drive/1Sr7NT4bZxyPVFvHVTZs-kw6P8GTbBV-i
+
+
