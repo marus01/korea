@@ -19,18 +19,29 @@ Trials 버전은 파일명 앞에 Trial 이라고 표기되어 있습니다.
 
 
 2.PDW_NSMC_bert의 경우 ko_data.csv로 최종 테스트 하였기에 하단의 실행법 참고
+
 1)코랩과 구글 드라이브를 마운트합니다.
+
 2)마운트 된 구글드라이브에 ko_data.csv 파일 삽입합니다.
+
 3)테스트 결과 파일을 csv로 import 하기 위해 구글 드라이브에 경로 및 파일명을 설정합니다. 
+
 실행하시면 됩니다. 
 
 3.PDW_friends_eng__bert의 경우 en_data.csv로 최종 테스트 하였기에 하단의 실행법 참고
+
 1)코랩과 구글 드라이브를 마운트합니다.
+
 2)마운트 된 구글드라이브에 EmotionLines_friends_annotation.tar.gz 파일 삽입합니다.
+
 3)마운트 된 구글드라이브에 en_data.csv 파일 삽입합니다.
+
 테스트 결과 파일을 csv로 import 하기 위해 구글 드라이브에 경로 및 파일명을 설정합니다.
 
+
 실행하시면 됩니다.
+
+
 # 참고 소스 코드
 https://github.com/deepseasw/bert-naver-movie-review
 
