@@ -7,10 +7,16 @@ Trials 버전은 파일명 앞에 Trial 이라고 표기되어 있습니다.
 
 하위 폴더 생성이 잘안되서 부득이하고 같은 폴더에 올렸습니다. 
 
-한글버전은 3개 모델을 구현하였으며
+한글버전은 3개 모델을 구현 
+1. final_PDW_NSMC_KoELECTRA_base_v3.ipynb
 
-영어버전은 1개 모델을 구현하였습니다. 
+2. trial_PDW_NSMC_bert.ipynb
 
+3. trial_PDW_NSMC_KoELECTRA_base_v2.ipynb
+
+영어버전은 1개 모델을 구현
+
+1. final_PDW_friends_eng__bert.ipynb
 
 
 # 실행 환경
